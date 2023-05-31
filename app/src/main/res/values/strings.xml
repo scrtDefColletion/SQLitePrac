@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="show_list">Показать список</string>
+    <string name="model">Модель</string>
+    <string name="serial">Серийный номер</string>
+    <string name="price">Стоимость\n</string>
+    <string name="add">Добавть</string>
+    <string name="incert_success">Телефон успешно добавлен</string>
+    <string name="incert_error">Ошибка добавления\n</string>
+    <string name="incorrect_value">Неверные значеня</string>
+</resources>
